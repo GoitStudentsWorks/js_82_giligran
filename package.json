@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-13-bookshelf/",
+    "build": "vite build --base=/js_82_giligran/",
     "preview": "vite preview"
   },
   "devDependencies": {
